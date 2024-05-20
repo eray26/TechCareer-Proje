@@ -2,13 +2,13 @@
 
 JavaScript ile Vücut Kitle Endeksi hesaplama
 
-# Özellikler
+## Özellikler
 - [x] Vücut kitle endeksi'ni ağırlığa (kg cinsinden) ve boya (cm cinsinden) göre hesaplayın.
 - [x] Hesaplanan vki'yi yorumlayın.
 - [x] Yorumlamayı renk kodlu bir vki ölçeğiyle görselleştirin.
 
 
-# Vücut Kitle Endeksi Kategorileri
+## Vücut Kitle Endeksi Kategorileri
 Vücut kitle endeksi değeri aşağıdaki kategorilere göre yorumlanır:
 
 Düşük kilolu: BMI < 18,5
